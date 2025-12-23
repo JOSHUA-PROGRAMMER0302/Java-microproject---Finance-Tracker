@@ -1,1 +1,1 @@
-# Java-microproject---Finance-Tracker
+# Java-miniproject---Finance-Tracker
